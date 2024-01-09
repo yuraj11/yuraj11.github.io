@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Firmy",
+    "description": "Search for legal persons, businesses and public authorities in Slovak republic \uD83C\uDDF8\uD83C\uDDF0",
+    "type": "Android app",
+    "technology": "Kotlin",
+    "link": "https://github.com/yuraj11/firmy",
+    "image": "image/firmy.jpg"
+  },
+  {
+    "name": "SQLite Viewer",
+    "description": "View SQLite file online",
+    "type": "Web tool",
+    "technology": "HTML, JS",
+    "link": "https://github.com/inloop/sqlite-viewer",
+    "image": "image/sqlite.jpg"
+  },
+  {
+    "name": "shadow4android",
+    "description": "Android 9-patch shadow generator ",
+    "type": "Web tool",
+    "technology": "HTML, JS",
+    "link": "https://github.com/inloop/shadow4android",
+    "image": "image/shadow4android.jpg"
+  },
+  {
+    "name": "svg2android",
+    "description": "SVG to Android VectorDrawable XML resource file",
+    "type": "Web tool",
+    "technology": "HTML, JS",
+    "link": "https://github.com/inloop/svg2android",
+    "image": "image/svg2android.jpg"
+  },
+  {
+    "name": "APK method count",
+    "description": "Output per-package method counts in Android APK",
+    "type": "Web tool",
+    "technology": "HTML, JS, TS",
+    "link": "https://github.com/inloop/apk-method-count",
+    "image": "image/apkmethodcount.jpg"
+  },
+  {
+    "name": "interpolator",
+    "description": "Realtime interpolation equation editor",
+    "type": "Web tool",
+    "technology": "HTML, JS",
+    "link": "https://github.com/inloop/interpolator",
+    "image": "image/interpolator.jpg"
+  },
+  {
+    "name": "HL Texture tools",
+    "description": "Create and view wad and spr files",
+    "type": "Windows app",
+    "technology": "C#, WinForms",
+    "link": "https://github.com/yuraj11/HL-Texture-Tools",
+    "image": "image/hltexturetools.jpg"
+  }
+]
